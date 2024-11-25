@@ -43,7 +43,7 @@ public class MatrixOperations {
 
     public void findMinMaxAvg() {
         if (matrix == null || matrix.length == 0) {
-            System.out.println("Матриця порожня.");
+            System.out.println("Мтриця порожня.");
             return;
         }
 
